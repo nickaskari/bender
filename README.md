@@ -1,2 +1,3 @@
 # Bender
-goated app by Nick and Sivert
+The go-to app for creating night out memories
+- by Nick and Sivert
